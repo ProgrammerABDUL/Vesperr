@@ -1,0 +1,5 @@
+@media only screen and (max-width:1170px) {
+    .navbar{
+        flex-direction: column;
+    }
+}
